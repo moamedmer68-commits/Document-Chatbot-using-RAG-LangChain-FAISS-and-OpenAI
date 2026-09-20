@@ -2,14 +2,11 @@ streamlit
 pandas
 pypdf
 python-docx
-docx
-
 langchain
 langchain-core
 langchain-openai
 langchain-community
 langchain-text-splitters
-
 faiss-cpu
 openai
 tiktoken
